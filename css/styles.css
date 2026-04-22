@@ -1,0 +1,27 @@
+body {
+    background-color: #d9d9d9;
+    color: #111111;
+    font-family: Arial;
+    margin: 25px;
+}
+
+h1 {
+    color: darkgreen;
+    font-size: 36px;
+}
+
+h2 {
+    color: darkblue;
+}
+
+p {
+    font-size: 18px;
+}
+
+a {
+    color: darkred;
+}
+
+a:hover {
+    color: orange;
+}
